@@ -1,6 +1,6 @@
 # MultiOfContigInf
 
-EADME.TXT
+README.TXT
 
 JfDumParse_v4.py
 April  2018
